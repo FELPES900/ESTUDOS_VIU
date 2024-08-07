@@ -1,11 +1,7 @@
-h1 {
-  font-size: 80px;
-}
-
-.sinFondo {
-  color: red;
-}
-
-.conFondo {
+.verde {
   color: green;
+}
+
+.rojo {
+  color: red;
 }
